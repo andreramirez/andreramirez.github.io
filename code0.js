@@ -19,6 +19,8 @@ gdjs.New_32sceneCode.GDGoRightObjects1= [];
 gdjs.New_32sceneCode.GDGoRightObjects2= [];
 gdjs.New_32sceneCode.GDLadderObjects1= [];
 gdjs.New_32sceneCode.GDLadderObjects2= [];
+gdjs.New_32sceneCode.GDNewObjectObjects1= [];
+gdjs.New_32sceneCode.GDNewObjectObjects2= [];
 
 gdjs.New_32sceneCode.conditionTrue_0 = {val:false};
 gdjs.New_32sceneCode.condition0IsTrue_0 = {val:false};
@@ -44,6 +46,8 @@ gdjs.New_32sceneCode.GDGoRightObjects1.length = 0;
 gdjs.New_32sceneCode.GDGoRightObjects2.length = 0;
 gdjs.New_32sceneCode.GDLadderObjects1.length = 0;
 gdjs.New_32sceneCode.GDLadderObjects2.length = 0;
+gdjs.New_32sceneCode.GDNewObjectObjects1.length = 0;
+gdjs.New_32sceneCode.GDNewObjectObjects2.length = 0;
 
 
 {
